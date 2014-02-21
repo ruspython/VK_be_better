@@ -1,0 +1,6 @@
+body{
+	
+}
+.im_new_msg .im_log_author, .im_new_msg .im_log_body, .im_new_msg .im_log_date{
+	background-color: #baccde !important;
+}
